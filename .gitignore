@@ -35,6 +35,16 @@ jupyter-book/data
 *.h5mu
 *.pdf
 
+executable-scripts/preprocessing_visualization
+*.h5ad
+*.h5mu
+*.pdf
+
+executable-scripts/cellular_structure
+*.h5ad
+*.h5mu
+*.pdf
+
 **/data/*
 **/figures/*
 **/archive/*
